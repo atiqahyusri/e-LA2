@@ -1,0 +1,20 @@
+
+iframe.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+	
+  }
+
+.center{
+    text-align: right;
+    margin-top:2.0%;
+
+}
+
+.error{
+		background: #F2DEDE;
+		color: #A94442;
+		padding: 10px;
+		width:95%;
+	}
